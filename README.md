@@ -13,21 +13,13 @@
 
 #### Sample Template
 * https://thiri-win.github.io/frontend-sample/
-##### sample-1
-* https://glowing-bublanina-94be92.netlify.app/
-##### sample-2
-* https://chimerical-frangipane-0cfe79.netlify.app/
-##### sample-3
-* https://idyllic-liger-c31f99.netlify.app/
-##### sample-4
-* https://transcendent-semifreddo-904ce2.netlify.app/
-##### sample-5
-* https://jade-granita-821fcd.netlify.app/
-###### sample-6
-* https://cheery-tanuki-fd8c20.netlify.app/
-##### sample-7
-* https://dulcet-klepon-522688.netlify.app/
-* front end sample
+[sample-1]: https://glowing-bublanina-94be92.netlify.app/ 
+[sample-2]: https://chimerical-frangipane-0cfe79.netlify.app/
+[sample-3]: https://idyllic-liger-c31f99.netlify.app/
+[sample-4]: https://transcendent-semifreddo-904ce2.netlify.app/
+[sample-5]: https://jade-granita-821fcd.netlify.app/
+[sample-6]: https://cheery-tanuki-fd8c20.netlify.app/
+[sample-7]: https://dulcet-klepon-522688.netlify.app/
 
 <!--
 **thiri-win/thiri-win** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
