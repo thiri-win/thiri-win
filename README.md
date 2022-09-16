@@ -12,7 +12,7 @@
 * for admin pannel of a car workshop
 
 #### Sample Template
-- [sample-1][https://glowing-bublanina-94be92.netlify.app/] 
+- [sample-1](https://glowing-bublanina-94be92.netlify.app/)
 - https://chimerical-frangipane-0cfe79.netlify.app/
 - https://idyllic-liger-c31f99.netlify.app/
 - https://transcendent-semifreddo-904ce2.netlify.app/
