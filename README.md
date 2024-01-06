@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### for beginners
+
+- https://github.com/thiri-win/wtc-learning-notes
+
 #### React Project
 
 - https://thiri-win.github.io/rolodex
