@@ -1,7 +1,7 @@
 ### Hi, I am just a developer 👋
 
 ***my collected gist***
-- https://gist.github.com/thiri-win/6a057f35a125032d04f7a139f8855110
+- [web basic](https://gist.github.com/thiri-win/6a057f35a125032d04f7a139f8855110)
 
 #### React Project
 
