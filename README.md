@@ -1,7 +1,9 @@
 ### Hi, I am just a developer 👋
 
 ***my collected gist***
-- [web basic](https://gist.github.com/thiri-win/6a057f35a125032d04f7a139f8855110)
+* [web basic](https://gist.github.com/thiri-win/6a057f35a125032d04f7a139f8855110)
+* [github shortcuts](https://gist.github.com/thiri-win/1ed5d8bcc5814d034e25711a08b98f0e)
+* [laravel with passport](https://gist.github.com/thiri-win/a4c5fcd31b51e527c2582dbe6e60b69e)
 
 #### React Project
 
