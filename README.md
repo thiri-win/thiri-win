@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi, I am just a developer 👋
 
-#### for beginners
-
-- https://github.com/thiri-win/wtc-learning-notes
+***my collected gist***
+- https://gist.github.com/thiri-win/6a057f35a125032d04f7a139f8855110
 
 #### React Project
 
